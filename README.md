@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:liermi1996@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Based%20in-Germany%20%2F%20Italy-555?style=flat" alt="Location">
+  <img src="https://img.shields.io/badge/Based%20in-Italy-555?style=flat" alt="Location">
   <img src="https://img.shields.io/badge/Open%20to-Software%20%26%20AI%20roles-2ea44f?style=flat" alt="Open to work">
 </p>
 
