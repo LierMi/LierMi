@@ -2,7 +2,7 @@
 
 <p align="center">
   @ 42 School Heilbronn</b><br>
-  Building a foundation in low-level systems (C) · Applying Python &amp; AI agents to automate real workflows
+  Building a foundation in low-level systems (C) · Applying Python &amp; AI agents to automate real workflows · Web3 builder
 </p>
 
 <p align="center">
