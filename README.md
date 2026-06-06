@@ -34,10 +34,10 @@ I previously studied CS at 42 School, developing a hands-on, project-driven back
 |---|---|
 | **[Timeframe Estimator](https://github.com/U-Mina/42-Internal-Hackthon)** | Automation tool for 42 students that estimates project timelines and is designed to connect with the **42 Intra API** for student, project, and attendance-related data. *TypeScript · API Integration · Automation* |
 | **[Histopathology Image Classification](https://github.com/Qiaoli-Li-Res/histopathology-classification)** | Deep learning pipeline for 9-class colorectal cancer tissue classification using EfficientNet-B0 transfer learning on H&E histopathology images. *Python · PyTorch · Medical AI* |
-| **[digital-pompeii](https://github.com/10yu7ian/digital-pompeii)** | AI-curated museum of on-chain disasters, turning blockchain failures into an interactive cultural archive. *JavaScript · Web3 · AI* |
-| **[push_swap](https://github.com/LierMi/push_swap)** | Sorting algorithm project that orders integers with a limited stack-operation set, using rank compression and radix-based optimization. *C · Algorithms* |
-| **[minitalk](https://github.com/LierMi/minitalk)** | Client–server communication program that transmits text between processes using only UNIX signals. *C · UNIX Signals · IPC* |
-| **[get_next_line](https://github.com/LierMi/get_next_line)** | C utility function that reads from a file descriptor line by line with persistent buffering across repeated calls. *C · File I/O · Memory Management* |
+| **[Digital Pompeii](https://github.com/10yu7ian/digital-pompeii)** | AI-curated museum of on-chain disasters, turning blockchain failures into an interactive cultural archive. *JavaScript · Web3 · AI* |
+| **[Push swap](https://github.com/LierMi/push_swap)** | Sorting algorithm project that orders integers with a limited stack-operation set, using rank compression and radix-based optimization. *C · Algorithms* |
+| **[Minitalk](https://github.com/LierMi/minitalk)** | Client–server communication program that transmits text between processes using only UNIX signals. *C · UNIX Signals · IPC* |
+| **[Get next line](https://github.com/LierMi/get_next_line)** | C utility function that reads from a file descriptor line by line with persistent buffering across repeated calls. *C · File I/O · Memory Management* |
 
 ### 🌍 Languages
 
