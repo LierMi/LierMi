@@ -45,7 +45,7 @@ On-chain forensics (proxy resolution, upgrade-history tracing) · agentic paymen
 **Stack** — Solidity · EVM · Monad · Foundry · Etherscan API
 
 **🤝 软能力 · How I work**<br>
-Writing specs engineers don't have to translate · deciding what a system must *not* claim, and designing the honest fallback instead of a fake success path · cutting scope early and saying so · cross-functional handoff through written contracts · remote, cross-timezone collaboration
+Writing specs engineers don't have to translate · deciding what a system must *not* claim, and designing the honest fallback instead of a fake success path · cutting scope early and saying so · remote, cross-timezone collaboration
 
 ## 🚀 Featured Projects
 
@@ -57,8 +57,6 @@ The blockchain remembers everything and explains nothing. Digital Pompeii treats
 
 **Under the hood** — an autonomous forensic agent investigates public chain evidence across multiple tool-calling rounds, reaching past proxies and upgrades to the code that was live at the time of the attack, and returns a two-layer exhibit: a citable technical autopsy, and the epitaph. Five canonical disasters reconstructed end-to-end. Design rule: **investigate first, write second — zero fiction in the technical layer.**
 
-*Role — concept, curation & exhibition copy, agent system prompt, frontend*
-
 🏛 **Live —** [digital-pompeii.vercel.app](https://digital-pompeii.vercel.app)
 
 ### [Pocket Republic · 口袋共和国](https://github.com/LierMi/pocket-republic)
@@ -69,8 +67,6 @@ When an AI agent starts spending your money, a wallet isn't enough — it needs 
 
 **Under the hood** — you author a nine-article constitution; a seven-member AI cabinet deliberates each proposal with live LLM personas, but a **deterministic rule engine, never the model, decides the money**. Execution runs inside a Kite Agent Passport scoped spending session and is logged to a public gazette. Real Passkey-approved session on testnet, with gated settlement labeled honestly instead of faked.
 
-*Role — concept, governance design, constitution text, frontend*
-
 🌐 **Live —** [pocket-republic.vercel.app](https://pocket-republic.vercel.app)
 
 ### [Silicon Labor Arbitration · 硅基劳动仲裁院](https://github.com/LierMi/Silicon-Labor-Arbitration)
@@ -78,8 +74,6 @@ When an AI agent starts spending your money, a wallet isn't enough — it needs 
 A human hires an agent, which hires an agent, which calls a tool — and when it goes wrong, every link in the chain has an alibi. The real defendant isn't the human or the AI; it's the way responsibility evaporates inside delegation. So this is an arbitration body, not a court — in a year when everyone is selling fully automatic AI verdicts, the position worth taking is the nerve to say *"this part I can't judge."*
 
 **Under the hood** — one hard separation: a deterministic rule layer is the **only** layer allowed to move money, while the AI layer may only cross-examine, cite evidence and explain. Measurable clauses settle automatically; the subjective one — the demo's *"is this actually a cat?"* — freezes and escalates to a human. Escrow contract deployed on Monad testnet.
-
-*Role — concept, product framing & positioning, UX*
 
 ### [The Sound Atlas · 声音星图](https://github.com/LierMi/The_Sound_Atlas)
 
@@ -89,13 +83,11 @@ Streaming turned music into background noise on an infinite shelf: you can hear 
 
 **Under the hood** — a 3D galaxy of eras you drag through and dive into; an AI curator then generates the hall itself: curator's notes, a listening route through the real city, an exhibit label written from your own memory, and a stamped "passport" constellation you can export and share.
 
-*Role — full product concept, curation, 3D homepage & frontend*
-
 🌌 **Live —** [sound-atlas-five.vercel.app](https://sound-atlas-five.vercel.app)
 
 ### [Timeframe Estimator](https://github.com/U-Mina/42-Internal-Hackthon)
 
-*42 Internal Hackathon · team of four*
+*42 Internal Hackathon*
 
 42 School has no teachers and no deadlines — which is freedom right up until it becomes drift. This is a tool for setting your own pace when nobody else will set it for you.
 
