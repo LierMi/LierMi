@@ -19,7 +19,7 @@ I came to AI and Web3 from **fine arts and curation**, by way of **42 School** (
 
 A curator's job is to decide what deserves to exist in a room, what story it tells, and how a stranger finds their way through it. That turned out to be the same job as product. I now do it for AI agents and on-chain systems: I originate the concept, define the problem it has to earn its keep on, write the narrative and the interface, and ship a working, deployed demo.
 
-Six builds in 2026 across AI × Web3, music-tech and medical AI — **one track championship and one runner-up** among them.
+I entered two AI × Web3 hackathons in 2026 — **one championship, one runner-up.**
 
 ---
 
