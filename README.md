@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:liermi1996@gmail.com"><img src="https://img.shields.io/badge/Email-555?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Rome,%20Italy-555?style=flat" alt="Location">
-  <img src="https://img.shields.io/badge/Open%20to-AI%20%C3%97%20Web3%20Product%20Roles-555?style=flat" alt="Open to work">
+  <a href="mailto:liermi1996@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Rome,%20Italy-2D6A4F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Open%20to-AI%20%C3%97%20Web3%20Product%20Roles-2EA44F?style=for-the-badge" alt="Open to work">
 </p>
 
 ## About
