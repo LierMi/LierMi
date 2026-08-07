@@ -46,7 +46,9 @@ The product decision I care most about is where the machine should stop. Sound A
 #### [Digital Pompeii · 数字庞贝](https://github.com/10yu7ian/digital-pompeii)
 `🏆 Champion — Z.AI track, AI × Web3 Agentic Builders Hackathon`
 
-A dark museum for on-chain failures. Paste a contract address and an autonomous forensic agent (GLM-5.1) runs 6–12 rounds of tool calls over public chain evidence — resolving proxy storage slots and doing *upgrade archaeology* to reach the implementation that was actually live at the time of the attack — then returns a two-layer exhibit: a citable technical autopsy with transaction hashes, and a literary epitaph. Five canonical disasters (The DAO, Parity, Beanstalk, Ronin, Nomad) reconstructed end-to-end. Design rule: **investigate first, write second — zero fiction in the technical layer.**
+The blockchain remembers everything and explains nothing. Digital Pompeii treats each collapsed protocol as an archaeological site and builds a dark museum out of it — so that a $625M exploit stops being a headline number and becomes an exhibit with an epitaph, and a loss can be inherited as public memory instead of repeated.
+
+**Under the hood** — an autonomous forensic agent investigates public chain evidence across multiple tool-calling rounds, reaching past proxies and upgrades to the code that was live at the time of the attack, and returns a two-layer exhibit: a citable technical autopsy, and the epitaph. Five canonical disasters reconstructed end-to-end. Design rule: **investigate first, write second — zero fiction in the technical layer.**
 
 `React` `Python` `GLM-5.1` `Etherscan API` — *concept, curation & exhibition copy, agent system prompt, frontend*<br>
 🏛 [digital-pompeii.vercel.app](https://digital-pompeii.vercel.app)
@@ -54,21 +56,27 @@ A dark museum for on-chain failures. Paste a contract address and an autonomous 
 #### [Pocket Republic · 口袋共和国](https://github.com/LierMi/pocket-republic)
 `🥈 Runner-up — KITE AI track (The Future of Agentic Payment), AI × Web3 Growth Hackathon`
 
-When an AI agent starts spending your money, a wallet isn't enough — it needs a constitution. You write a nine-article personal constitution; a seven-member AI cabinet debates each proposal with live LLM personas; a **deterministic rule engine — never the model — decides the money**; execution runs inside a Kite Agent Passport scoped spending session and is written to a public national gazette. Real Passkey-approved session on Kite testnet, with gated settlement labeled honestly instead of faked.
+When an AI agent starts spending your money, a wallet isn't enough — it needs a constitution. The coming trust crisis between people and agents can't be answered with a promise, only with an institution: here you are the founder who writes the law, and a cabinet of AI citizens must govern your treasury inside the boundaries you set.
+
+**Under the hood** — you author a nine-article constitution; a seven-member AI cabinet deliberates each proposal with live LLM personas, but a **deterministic rule engine, never the model, decides the money**. Execution runs inside a Kite Agent Passport scoped spending session and is logged to a public gazette. Real Passkey-approved session on testnet, with gated settlement labeled honestly instead of faked.
 
 `JavaScript` `Kite Agent Passport` `Gonka` `Vercel Serverless` — *concept, governance design, constitution text, frontend*<br>
 🌐 [pocket-republic.vercel.app](https://pocket-republic.vercel.app)
 
 #### [Silicon Labor Arbitration · 硅基劳动仲裁院](https://github.com/LierMi/Silicon-Labor-Arbitration)
 
-Where does accountability go when a human hires an agent, that hires an agent, that calls a tool? An on-chain arbitration layer built on one strict separation: a deterministic rule layer is the **only** layer allowed to move money, while the AI layer may only cross-examine, cite evidence and explain. Objective acceptance criteria settle automatically; the subjective one — the demo's *"is this actually a cat?"* — is frozen and escalated to a human. Not a court: an arbitration body, because arbitration was never meant to be final.
+A human hires an agent, which hires an agent, which calls a tool — and when it goes wrong, every link in the chain has an alibi. The real defendant isn't the human or the AI; it's the way responsibility evaporates inside delegation. So this is an arbitration body, not a court — in a year when everyone is selling fully automatic AI verdicts, the position worth taking is the nerve to say *"this part I can't judge."*
+
+**Under the hood** — one hard separation: a deterministic rule layer is the **only** layer allowed to move money, while the AI layer may only cross-examine, cite evidence and explain. Measurable clauses settle automatically; the subjective one — the demo's *"is this actually a cat?"* — freezes and escalates to a human. Escrow contract deployed on Monad testnet.
 
 `TypeScript` `Solidity` `Monad Testnet` `Foundry` — *concept, product framing & positioning, UX*
 
 #### [The Sound Atlas · 声音星图](https://github.com/LierMi/The_Sound_Atlas)
 `TME Tencent Music Hackathon 2026 — Track A, Innovative Music Products`
 
-An era of music, rebuilt as a museum you can walk into. Drag through a 3D galaxy of musical time-coordinates, dive into one, and an AI curator reconstructs its sound, stories and geography as a hall: curator's notes, a listening route through the real city, an exhibit label written from your own memory, and a stamped "passport" constellation you can export and share.
+Streaming turned music into background noise on an infinite shelf: you can hear everything and enter nothing. The Sound Atlas gives an era its body back — a musical time-coordinate rebuilt as a museum you can walk into, where listening becomes visiting, and a song is returned to the city, the story and the people it came from.
+
+**Under the hood** — a 3D galaxy of eras you drag through and dive into; an AI curator then generates the hall itself: curator's notes, a listening route through the real city, an exhibit label written from your own memory, and a stamped "passport" constellation you can export and share.
 
 `React` `React Three Fiber` `Vite` `Tailwind` `GLM API` — *full product concept, curation, 3D homepage & frontend*<br>
 🌌 [sound-atlas-five.vercel.app](https://sound-atlas-five.vercel.app)
@@ -76,14 +84,18 @@ An era of music, rebuilt as a museum you can walk into. Drag through a 3D galaxy
 #### [Timeframe Estimator](https://github.com/U-Mina/42-Internal-Hackthon)
 `42 Internal Hackathon — team of four`
 
-A pace-keeping tool for 42 students that estimates realistic project timelines, built against the 42 Intra API for student, project and attendance data.
+42 School has no teachers and no deadlines — which is freedom right up until it becomes drift. This is a tool for setting your own pace when nobody else will set it for you.
+
+**Under the hood** — estimates realistic project timelines from student, project and attendance data via the 42 Intra API.
 
 `TypeScript` `42 Intra API`
 
 #### [Histopathology Image Classification](https://github.com/Qiaoli-Li-Res/histopathology-classification)
 `Research collaboration`
 
-Nine-class colorectal cancer tissue classifier: EfficientNet-B0 transfer learning trained on NCT-CRC-HE-100K (100,000 H&E patches) and evaluated on the patient-independent CRC-VAL-HE-7K set — a compact, reproducible baseline for tissue recognition.
+Cancer diagnosis still bottlenecks on a specialist's eye moving across a slide, one tissue patch at a time. Before AI can responsibly help with that, it needs baselines someone else can actually reproduce — this is a small, honest attempt at one.
+
+**Under the hood** — nine-class colorectal tissue classifier: EfficientNet-B0 transfer learning on NCT-CRC-HE-100K (100,000 H&E patches), evaluated on the patient-independent CRC-VAL-HE-7K set.
 
 `Python` `PyTorch` `EfficientNet-B0`
 
