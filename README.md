@@ -1,14 +1,14 @@
 <h1 align="center">Lier Mi</h1>
 
 <p align="center">
-  <b>AI × Web3 Product Manager</b> · AI Full-Stack Builder · UI/UX Designer<br>
+  <b>AI / Web3 Product Manager</b> · AI Full-Stack Builder · UI/UX Designer<br>
   <i>Curator turned builder — I turn protocol-level problems into places people can walk into.</i>
 </p>
 
 <p align="center">
-  <a href="mailto:liermi1996@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Rome,%20Italy-2D6A4F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Open%20to-AI%20%C3%97%20Web3%20Product%20Roles-2EA44F?style=for-the-badge" alt="Open to work">
+  <a href="mailto:liermi1996@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <picture><img src="https://img.shields.io/badge/Rome,%20Italy-2D6A4F?style=flat&logo=googlemaps&logoColor=white" alt="Location"></picture>
+  <picture><img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20Web3%20Product%20Roles-2EA44F?style=flat" alt="Open to work"></picture>
 </p>
 
 ## About
@@ -39,7 +39,7 @@ The product decision I care most about is where the machine should stop. Sound A
 
 ### [Digital Pompeii · 数字庞贝](https://github.com/10yu7ian/digital-pompeii)
 
-![Champion](https://img.shields.io/badge/%F0%9F%8F%86%20CHAMPION-Z.AI%20Track%20%C2%B7%20AI%20%C3%97%20Web3%20Agentic%20Builders%20Hackathon-C9A227?style=for-the-badge&labelColor=6B4E00)
+<picture><img src="https://img.shields.io/badge/%F0%9F%8F%86%20CHAMPION-Z.AI%20Track%20%C2%B7%20AI%20%C3%97%20Web3%20Agentic%20Builders%20Hackathon-C9A227?style=for-the-badge&labelColor=6B4E00" alt="Champion"></picture>
 
 The blockchain remembers everything and explains nothing. Digital Pompeii treats each collapsed protocol as an archaeological site and builds a dark museum out of it — so that a $625M exploit stops being a headline number and becomes an exhibit with an epitaph, and a loss can be inherited as public memory instead of repeated.
 
@@ -51,7 +51,7 @@ The blockchain remembers everything and explains nothing. Digital Pompeii treats
 
 ### [Pocket Republic · 口袋共和国](https://github.com/LierMi/pocket-republic)
 
-![Runner-up](https://img.shields.io/badge/%F0%9F%A5%88%20RUNNER--UP-KITE%20AI%20Track%20%C2%B7%20AI%20%C3%97%20Web3%20Growth%20Hackathon-9AA0A6?style=for-the-badge&labelColor=4A4E52)
+<picture><img src="https://img.shields.io/badge/%F0%9F%A5%88%20RUNNER--UP-KITE%20AI%20Track%20%C2%B7%20AI%20%C3%97%20Web3%20Growth%20Hackathon-9AA0A6?style=for-the-badge&labelColor=4A4E52" alt="Runner-up"></picture>
 
 When an AI agent starts spending your money, a wallet isn't enough — it needs a constitution. The coming trust crisis between people and agents can't be answered with a promise, only with an institution: here you are the founder who writes the law, and a cabinet of AI citizens must govern your treasury inside the boundaries you set.
 
@@ -126,4 +126,4 @@ systems programming and memory management from 42 School · shell scripting & Un
 
 ## 📫 Get in touch
 
-📧 **liermi1996@gmail.com** — open to AI × Web3 product roles, and to teams that need one person who can decide what the thing should be, build it, and make it look like it belongs.
+📧 **liermi1996@gmail.com** — open to AI / Web3 product roles, and to teams that need one person who can decide what the thing should be, build it, and make it look like it belongs.
