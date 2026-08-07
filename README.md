@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:liermi1996@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Rome,%20Italy-2D6A4F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Open%20to-AI%20%C3%97%20Web3%20Product%20Roles-2EA44F?style=for-the-badge" alt="Open to work">
+  <a href="mailto:liermi1996@gmail.com"><img src="https://img.shields.io/badge/Email-555?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Rome,%20Italy-555?style=flat" alt="Location">
+  <img src="https://img.shields.io/badge/Open%20to-AI%20%C3%97%20Web3%20Product%20Roles-555?style=flat" alt="Open to work">
 </p>
 
 ## About
@@ -45,11 +45,7 @@ The blockchain remembers everything and explains nothing. Digital Pompeii treats
 
 **Under the hood** — an autonomous forensic agent investigates public chain evidence across multiple tool-calling rounds, reaching past proxies and upgrades to the code that was live at the time of the attack, and returns a two-layer exhibit: a citable technical autopsy, and the epitaph. Five canonical disasters reconstructed end-to-end. Design rule: **investigate first, write second — zero fiction in the technical layer.**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GLM-5.1](https://img.shields.io/badge/GLM--5.1-2B6CB0?style=flat-square)
-![Etherscan API](https://img.shields.io/badge/Etherscan%20API-21325B?style=flat-square)
-— *concept, curation & exhibition copy, agent system prompt, frontend*
+*Role — concept, curation & exhibition copy, agent system prompt, frontend*
 
 🏛 **Live —** [digital-pompeii.vercel.app](https://digital-pompeii.vercel.app)
 
@@ -61,67 +57,45 @@ When an AI agent starts spending your money, a wallet isn't enough — it needs 
 
 **Under the hood** — you author a nine-article constitution; a seven-member AI cabinet deliberates each proposal with live LLM personas, but a **deterministic rule engine, never the model, decides the money**. Execution runs inside a Kite Agent Passport scoped spending session and is logged to a public gazette. Real Passkey-approved session on testnet, with gated settlement labeled honestly instead of faked.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Kite Agent Passport](https://img.shields.io/badge/Kite%20Agent%20Passport-FF5A52?style=flat-square)
-![Gonka](https://img.shields.io/badge/Gonka-5DE0C1?style=flat-square)
-![Vercel Serverless](https://img.shields.io/badge/Vercel%20Serverless-000000?style=flat-square&logo=vercel&logoColor=white)
-— *concept, governance design, constitution text, frontend*
+*Role — concept, governance design, constitution text, frontend*
 
 🌐 **Live —** [pocket-republic.vercel.app](https://pocket-republic.vercel.app)
 
 ### [Silicon Labor Arbitration · 硅基劳动仲裁院](https://github.com/LierMi/Silicon-Labor-Arbitration)
 
-![Monad Testnet](https://img.shields.io/badge/Monad%20Testnet-Escrow%20Contract%20Deployed-836EF9?style=for-the-badge&labelColor=4C3FA8)
-
 A human hires an agent, which hires an agent, which calls a tool — and when it goes wrong, every link in the chain has an alibi. The real defendant isn't the human or the AI; it's the way responsibility evaporates inside delegation. So this is an arbitration body, not a court — in a year when everyone is selling fully automatic AI verdicts, the position worth taking is the nerve to say *"this part I can't judge."*
 
-**Under the hood** — one hard separation: a deterministic rule layer is the **only** layer allowed to move money, while the AI layer may only cross-examine, cite evidence and explain. Measurable clauses settle automatically; the subjective one — the demo's *"is this actually a cat?"* — freezes and escalates to a human.
+**Under the hood** — one hard separation: a deterministic rule layer is the **only** layer allowed to move money, while the AI layer may only cross-examine, cite evidence and explain. Measurable clauses settle automatically; the subjective one — the demo's *"is this actually a cat?"* — freezes and escalates to a human. Escrow contract deployed on Monad testnet.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Monad](https://img.shields.io/badge/Monad-836EF9?style=flat-square)
-![Foundry](https://img.shields.io/badge/Foundry-F5751A?style=flat-square)
-— *concept, product framing & positioning, UX*
+*Role — concept, product framing & positioning, UX*
 
 ### [The Sound Atlas · 声音星图](https://github.com/LierMi/The_Sound_Atlas)
 
-![TME Hackathon](https://img.shields.io/badge/TME%20Tencent%20Music%20Hackathon%202026-Track%20A%20%C2%B7%20Innovative%20Music%20Products-1DB954?style=for-the-badge&labelColor=0B6B33)
+*TME Tencent Music Hackathon 2026 · Track A, Innovative Music Products*
 
 Streaming turned music into background noise on an infinite shelf: you can hear everything and enter nothing. The Sound Atlas gives an era its body back — a musical time-coordinate rebuilt as a museum you can walk into, where listening becomes visiting, and a song is returned to the city, the story and the people it came from.
 
 **Under the hood** — a 3D galaxy of eras you drag through and dive into; an AI curator then generates the hall itself: curator's notes, a listening route through the real city, an exhibit label written from your own memory, and a stamped "passport" constellation you can export and share.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GLM API](https://img.shields.io/badge/GLM%20API-2B6CB0?style=flat-square)
-— *full product concept, curation, 3D homepage & frontend*
+*Role — full product concept, curation, 3D homepage & frontend*
 
 🌌 **Live —** [sound-atlas-five.vercel.app](https://sound-atlas-five.vercel.app)
 
 ### [Timeframe Estimator](https://github.com/U-Mina/42-Internal-Hackthon)
 
-![42 Internal Hackathon](https://img.shields.io/badge/42%20Internal%20Hackathon-Team%20of%20Four-00BABC?style=for-the-badge&labelColor=00666A)
+*42 Internal Hackathon · team of four*
 
 42 School has no teachers and no deadlines — which is freedom right up until it becomes drift. This is a tool for setting your own pace when nobody else will set it for you.
 
 **Under the hood** — estimates realistic project timelines from student, project and attendance data via the 42 Intra API.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![42 Intra API](https://img.shields.io/badge/42%20Intra%20API-000000?style=flat-square&logo=42&logoColor=white)
-
 ### [Histopathology Image Classification](https://github.com/Qiaoli-Li-Res/histopathology-classification)
 
-![Research Collaboration](https://img.shields.io/badge/Research%20Collaboration-Medical%20AI-3A7CA5?style=for-the-badge&labelColor=1B4965)
+*Research collaboration · medical AI*
 
 Cancer diagnosis still bottlenecks on a specialist's eye moving across a slide, one tissue patch at a time. Before AI can responsibly help with that, it needs baselines someone else can actually reproduce — this is a small, honest attempt at one.
 
-**Under the hood** — nine-class colorectal tissue classifier: EfficientNet-B0 transfer learning on NCT-CRC-HE-100K (100,000 H&E patches), evaluated on the patient-independent CRC-VAL-HE-7K set.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![EfficientNet-B0](https://img.shields.io/badge/EfficientNet--B0-6A4C93?style=flat-square)
+**Under the hood** — nine-class colorectal tissue classifier: EfficientNet-B0 transfer learning on 100,000 H&E patches, evaluated on a patient-independent external test set.
 
 ## 🧰 Toolkit — three hats, one person
 
@@ -130,40 +104,19 @@ Cancer diagnosis still bottlenecks on a specialist's eye moving across a slide, 
 
 **🤖 AI 全栈 · AI Full-Stack Engineering**<br>
 LLM agent architecture · system prompt engineering & evaluation · long-horizon autonomous tool-calling loops · multi-agent deliberation and role design · **standing up AI workflows and automation tooling for a team** · API integration & data processing · RAG and structured-output pipelines · serverless deployment<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![GLM](https://img.shields.io/badge/GLM-2B6CB0?style=flat-square)
-![Gonka](https://img.shields.io/badge/Gonka-5DE0C1?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel%20Serverless-000000?style=flat-square&logo=vercel&logoColor=white)
+**Stack** — Python · Node.js · Claude · GLM · Gonka · PyTorch · Vercel Serverless
 
 **🎨 UI 设计 · UI/UX Design & Frontend**<br>
 design systems built from scratch · visual and art direction · 3D / WebGL interactive scenes · motion, transitions & micro-interactions · responsive and mobile · exhibition-grade layout and typography · design-to-code with no handoff loss<br>
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+**Stack** — React · React Three Fiber · Tailwind · Vite · TypeScript / JavaScript · HTML/CSS
 
 **⛓ Web3**<br>
 on-chain forensics (Etherscan, proxy resolution, upgrade-history tracing) · agentic payments (Kite Agent Passport, scoped spending sessions, x402) · smart-contract integration & testnet deployment<br>
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Monad](https://img.shields.io/badge/Monad-836EF9?style=flat-square)
-![Foundry](https://img.shields.io/badge/Foundry-F5751A?style=flat-square)
-![Etherscan](https://img.shields.io/badge/Etherscan%20API-21325B?style=flat-square)
-![Kite](https://img.shields.io/badge/Kite%20Agent%20Passport-FF5A52?style=flat-square)
+**Stack** — Solidity · EVM · Monad · Foundry · Etherscan API
 
 **🧱 Foundations**<br>
 systems programming and memory management from 42 School · shell scripting & Unix tooling · Git-based collaborative workflows · writing code that is correct, efficient and actually maintainable<br>
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Stack** — C · Shell · Linux · Git
 
 > **What that means for a team:** I can take a vague idea all the way to a deployed, demo-able product on my own — concept, spec, agent pipeline, interface and pitch — and I can set up the AI workflows and internal tooling the rest of the team runs on day to day.
 
