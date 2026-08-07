@@ -15,25 +15,37 @@
 
 I came to AI and Web3 from **fine arts and curation**, by way of **42 School** (C, systems programming).
 
-A curator's job is to decide what deserves to exist in a room, what story it tells, and how a stranger finds their way through it. That turned out to be the same job as product. I now do it for AI agents and on-chain systems: I originate the concept, define the problem it has to earn its keep on, write the narrative and the interface, and ship a working, deployed demo.
+A curator decides what deserves to exist in a room, what story it tells, and how a stranger finds their way through it — which turns out to be the same job as product. I do that now for AI agents and on-chain systems: I originate the concept, define the problem it has to earn its keep on, and carry it through spec, build and interface to a deployed product.
 
-I entered two AI × Web3 hackathons in 2026 — **one championship, one runner-up.**
+Two AI × Web3 hackathons entered in 2026 — **one championship, one runner-up.**
 
-**What I'm chasing right now:** agentic payments and multi-agent collaboration — how autonomous agents transact, coordinate, and stay accountable to the humans behind them. Pocket Republic and Silicon Labor Arbitration are both attempts at that question, and I'd like to keep working on it with a team.
+**Currently focused on** agentic payments and multi-agent collaboration: how autonomous agents transact, coordinate, and stay accountable to the people behind them.
 
-## What I'm actually good at
+## Core Capabilities
 
-**🎯 Concept origination — 0→1 产品策划**<br>
-Every project below started from a blank page. My strength is finding the framing that makes an infrastructure problem legible *and* emotionally sticky: on-chain exploits become a **disaster museum**; agent spending limits become a **personal constitution**; agent liability becomes a **labor arbitration court**. Judges and users understand the product in one sentence, because the sentence came first.
+**🎯 产品策划 · Product Strategy**<br>
+0→1 concept origination from a blank page — finding the framing that makes an infrastructure problem legible *and* emotionally sticky: on-chain exploits become a disaster museum, agent spending limits become a personal constitution, agent liability becomes a labor arbitration court.<br>
+Problem framing & positioning · PRD and technical specs · information architecture · scope, roadmap & prioritisation · user and competitor analysis · narrative and UX copy
 
-**🤖 AI full-stack — I build the thing myself**<br>
-I don't hand a concept off and wait for it. I architect the agents: system prompts, long-horizon autonomous tool-calling loops, self-correction and evidence rules, multi-agent role design. Digital Pompeii's forensic agent runs a dozen tool rounds and revises its own hypothesis mid-investigation; Pocket Republic's seven-member cabinet deliberates with live LLM personas while a deterministic rule engine holds the money. I write and deploy the frontends too — React, React Three Fiber, Tailwind, real 3D scenes, real serverless endpoints — and a systems-programming background in C means the specs I hand to engineers don't need translating. **Claude Code** is my default implementation loop, which is how a solo concept reaches a deployed, working demo inside a hackathon weekend.
+**🤖 AI 工作流 · AI Automation**<br>
+Building AI automation workflows for companies and individuals: mapping a real process, deciding what an agent should and should not own, then implementing and deploying it.<br>
+LLM agent architecture · system prompt engineering & evaluation · long-horizon autonomous tool-calling loops · multi-agent orchestration and role design · RAG and structured-output pipelines · API integration & data processing · internal tooling<br>
+**Stack** — Python · Node.js · OpenAI-compatible LLM APIs · PyTorch · serverless
 
-**🗺 Curation as information architecture**<br>
-Deciding what to show, in what order, and — harder — what to cut. On one project I took an exhibit page from ~16,000px of stacked sections down to ~3,000px by inlining the core narrative and folding the rest away. Naming, sequencing, and pacing are product decisions, not decoration.
+**💻 工程实现 · Engineering**<br>
+I implement what I spec and read the code my engineers write.<br>
+Frontend architecture and state · 3D / WebGL scenes · REST and serverless endpoints · smart-contract integration · systems programming and memory management in C · Git-based collaborative workflows<br>
+**Stack** — TypeScript / JavaScript · React · React Three Fiber · Tailwind · Vite · Python · C · Solidity · Linux · Vercel
 
-**🚧 Defining what the system must *not* claim**<br>
-The product decision I care most about is where the machine should stop. Sound Atlas curates pre-built halls so the AI never has to fake a match to your personal memory. Silicon Labor Arbitration settles the measurable clauses automatically and freezes the subjective one with an explicit *"I cannot adjudicate this — you decide."* [Cyber Memory Cemetery](https://github.com/LierMi/cyber-memory-cemetery) ships two genuinely separate verification calls rather than presenting mock output as real. Honest boundaries are a feature, and I spec them deliberately.
+**🎨 UI 设计 · UI/UX**<br>
+Design systems built from scratch · visual and art direction · motion and micro-interactions · responsive and mobile · typography and layout · design-to-code with no handoff loss
+
+**⛓ Web3**<br>
+On-chain forensics (proxy resolution, upgrade-history tracing) · agentic payments and scoped spending authorisation · smart-contract integration and testnet deployment<br>
+**Stack** — Solidity · EVM · Monad · Foundry · Etherscan API
+
+**🤝 软能力 · How I work**<br>
+Writing specs engineers don't have to translate · deciding what a system must *not* claim, and designing the honest fallback instead of a fake success path · cutting scope early and saying so · cross-functional handoff through written contracts · remote, cross-timezone collaboration
 
 ## 🚀 Featured Projects
 
@@ -96,29 +108,6 @@ Streaming turned music into background noise on an infinite shelf: you can hear 
 Cancer diagnosis still bottlenecks on a specialist's eye moving across a slide, one tissue patch at a time. Before AI can responsibly help with that, it needs baselines someone else can actually reproduce — this is a small, honest attempt at one.
 
 **Under the hood** — nine-class colorectal tissue classifier: EfficientNet-B0 transfer learning on 100,000 H&E patches, evaluated on a patient-independent external test set.
-
-## 🧰 Toolkit — three hats, one person
-
-**🎯 项目策划 · Product Strategy & Planning**<br>
-0→1 concept origination · problem framing & market positioning · PRD and specs engineers don't have to translate · information architecture · scope, roadmap & prioritisation · narrative, UX copy and pitch design · hackathon-speed delivery under a deadline
-
-**🤖 AI 全栈 · AI Full-Stack Engineering**<br>
-LLM agent architecture · system prompt engineering & evaluation · long-horizon autonomous tool-calling loops · multi-agent deliberation and role design · **standing up AI workflows and automation tooling for a team** · API integration & data processing · RAG and structured-output pipelines · serverless deployment<br>
-**Stack** — Python · Node.js · Claude · GLM · Gonka · PyTorch · Vercel Serverless
-
-**🎨 UI 设计 · UI/UX Design & Frontend**<br>
-design systems built from scratch · visual and art direction · 3D / WebGL interactive scenes · motion, transitions & micro-interactions · responsive and mobile · exhibition-grade layout and typography · design-to-code with no handoff loss<br>
-**Stack** — React · React Three Fiber · Tailwind · Vite · TypeScript / JavaScript · HTML/CSS
-
-**⛓ Web3**<br>
-on-chain forensics (Etherscan, proxy resolution, upgrade-history tracing) · agentic payments (Kite Agent Passport, scoped spending sessions, x402) · smart-contract integration & testnet deployment<br>
-**Stack** — Solidity · EVM · Monad · Foundry · Etherscan API
-
-**🧱 Foundations**<br>
-systems programming and memory management from 42 School · shell scripting & Unix tooling · Git-based collaborative workflows · writing code that is correct, efficient and actually maintainable<br>
-**Stack** — C · Shell · Linux · Git
-
-> **What that means for a team:** I can take a vague idea all the way to a deployed, demo-able product on my own — concept, spec, agent pipeline, interface and pitch — and I can set up the AI workflows and internal tooling the rest of the team runs on day to day.
 
 ## 🌍 Languages
 
