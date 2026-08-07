@@ -21,6 +21,8 @@ A curator's job is to decide what deserves to exist in a room, what story it tel
 
 I entered two AI × Web3 hackathons in 2026 — **one championship, one runner-up.**
 
+**What I'm chasing right now:** agentic payments and multi-agent collaboration — how autonomous agents transact, coordinate, and stay accountable to the humans behind them. Pocket Republic and Silicon Labor Arbitration are both attempts at that question, and I'd like to keep working on it with a team.
+
 ---
 
 ### What I'm actually good at
