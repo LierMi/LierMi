@@ -77,8 +77,6 @@ A human hires an agent, which hires an agent, which calls a tool — and when it
 
 ### [The Sound Atlas · 声音星图](https://github.com/LierMi/The_Sound_Atlas)
 
-*TME Tencent Music Hackathon 2026 · Track A, Innovative Music Products*
-
 Streaming turned music into background noise on an infinite shelf: you can hear everything and enter nothing. The Sound Atlas gives an era its body back — a musical time-coordinate rebuilt as a museum you can walk into, where listening becomes visiting, and a song is returned to the city, the story and the people it came from.
 
 **Under the hood** — a 3D galaxy of eras you drag through and dive into; an AI curator then generates the hall itself: curator's notes, a listening route through the real city, an exhibit label written from your own memory, and a stamped "passport" constellation you can export and share.
