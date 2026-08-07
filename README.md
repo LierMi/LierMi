@@ -26,14 +26,14 @@ I entered two AI × Web3 hackathons in 2026 — **one championship, one runner-u
 **🎯 Concept origination — 0→1 产品策划**<br>
 Every project below started from a blank page. My strength is finding the framing that makes an infrastructure problem legible *and* emotionally sticky: on-chain exploits become a **disaster museum**; agent spending limits become a **personal constitution**; agent liability becomes a **labor arbitration court**. Judges and users understand the product in one sentence, because the sentence came first.
 
+**🤖 AI full-stack — I build the thing myself**<br>
+I don't hand a concept off and wait for it. I architect the agents: system prompts, long-horizon autonomous tool-calling loops, self-correction and evidence rules, multi-agent role design. Digital Pompeii's forensic agent runs a dozen tool rounds and revises its own hypothesis mid-investigation; Pocket Republic's seven-member cabinet deliberates with live LLM personas while a deterministic rule engine holds the money. I write and deploy the frontends too — React, React Three Fiber, Tailwind, real 3D scenes, real serverless endpoints — and a systems-programming background in C means the specs I hand to engineers don't need translating. **Claude Code** is my default implementation loop, which is how a solo concept reaches a deployed, working demo inside a hackathon weekend.
+
 **🗺 Curation as information architecture**<br>
 Deciding what to show, in what order, and — harder — what to cut. On one project I took an exhibit page from ~16,000px of stacked sections down to ~3,000px by inlining the core narrative and folding the rest away. Naming, sequencing, and pacing are product decisions, not decoration.
 
 **🚧 Defining what the system must *not* claim**<br>
 The product decision I care most about is where the machine should stop. Sound Atlas curates pre-built halls so the AI never has to fake a match to your personal memory. Silicon Labor Arbitration settles the measurable clauses automatically and freezes the subjective one with an explicit *"I cannot adjudicate this — you decide."* [Cyber Memory Cemetery](https://github.com/LierMi/cyber-memory-cemetery) ships two genuinely separate verification calls rather than presenting mock output as real. Honest boundaries are a feature, and I spec them deliberately.
-
-**🔧 Enough engineering to spec it and ship it**<br>
-42 School's C curriculum ([libft](https://github.com/LierMi/libft) → [push_swap](https://github.com/LierMi/push_swap) → [minitalk](https://github.com/LierMi/minitalk) → [fract-ol](https://github.com/LierMi/fractol)) gave me the vocabulary to write specs engineers don't have to translate. I build the frontends and author the agent system prompts myself, hand off to backend engineers through JSON contracts, and use **Claude Code** as my default implementation loop — which is how a solo concept reaches a deployed demo inside a hackathon weekend.
 
 ## 🚀 Featured Projects
 
